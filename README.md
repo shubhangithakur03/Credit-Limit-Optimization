@@ -1,3 +1,5 @@
+#SHUBHANGI THAKUR
+
 # Structure of the folder
 
 **Manager class** provides functionality to go through experiment, such as functions to initialize the agent and the environment, functions to run train, test, distorted and real episodes, functions to run train and test experiments, functions to visualize episodes and experiments.
